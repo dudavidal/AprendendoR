@@ -7,7 +7,11 @@
 ---
 
 📘 **Resumo**  
-Este diretório reúne os materiais utilizados no minicurso **“Introdução ao R para Análise de Dados de Imigração”**, oferecido durante a **Semana Universitária (SEMUNI) de 2025** da **Universidade de Brasília (UnB)**.  
+Este diretório reúne estudos baseados  no minicurso **“Introdução ao R para Análise de Dados de Imigração”**, oferecido durante a **Semana Universitária (SEMUNI) de 2025** da **Universidade de Brasília (UnB)**.  
+
+## Materiais do professor 
+- [Introdução ao R para análise de dados de imigração](https://github.com/FSQuintino/inrtodR_immigration_data) — Repositório do professor com exemplos práticos.
+
 
 O minicurso foi ministrado pelo professor **Felipe Quintino**, com duração total de **8 horas** distribuídas em duas aulas, e teve como foco introduzir os principais conceitos e ferramentas do software **R** aplicados à análise de dados reais.
 
