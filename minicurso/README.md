@@ -2,7 +2,7 @@
   🌸 👩‍💻 🤓
 </p>
 
-# 🌿 Minicurso — Introdução ao R para Análise de Dados de Imigração  
+# Minicurso — Introdução ao R para Análise de Dados de Imigração  
 
 ---
 
